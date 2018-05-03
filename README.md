@@ -1,2 +1,2 @@
-# Web_HomeWork
-Web课程设计
+# Web课程设计
+极简主义Web设计
