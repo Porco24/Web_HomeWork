@@ -11,8 +11,8 @@ html {
 body {
   font-size: 1.6rem;
   font-family: "Roboto", sans-serif;
-  color: #3d3536;
-  background-color: white;
+  color: #c3b1a3;
+  background-color: #c3b1a3;
 }
 
 a {
@@ -34,7 +34,7 @@ Resource style
   background: rgba(255, 255, 255, 0.78);
   -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
           box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
-  z-index: 3;
+  z-index: 9999;
 }
 
 .cd-main-header:after {
@@ -144,7 +144,7 @@ Resource style
 
 .cd-fixed-bg {
   position: relative;
-  min-height: 100vh;
+  min-height: 60vh;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -202,6 +202,26 @@ Resource style
 
 .cd-fixed-bg.cd-fixed-bg--8 {
   background-image: url("../image/tiankongzhicheng.jpg");
+}
+
+.cd-fixed-bg.cd-fixed-bg--9 {
+  background-image: url("../image/vpgvV8pVPNGWUUdE2xFUFf4VeMJ.jpg");
+}
+
+.cd-fixed-bg.cd-fixed-bg--10 {
+   background-image: url("../image/bdf8a36fd45a417b5afddda0ef81d9f085002b34_hq.jpg");
+ }
+
+.cd-fixed-bg.cd-fixed-bg--about {
+  background-image: url("../image/heying.png");
+}
+
+.cd-fixed-bg.cd-fixed-bg--tupian {
+  background-image: url("../image/QQ截图20180507215826.png");
+}
+
+.cd-fixed-bg.cd-fixed-bg--gongqijun {
+  background-image: url("../image/Studio_Ghibli_Logo_thumbnail.jpg");
 }
 
 @media only screen and (min-width: 768px) {
@@ -271,6 +291,31 @@ Resource style
 .cd-scrolling-bg.cd-scrolling-bg--color-8 {
   background-color: #bee4fa;
   color: #000000;
+}
+
+.cd-scrolling-bg.cd-scrolling-bg--color-9 {
+  background-color: #e2d294;
+  color: #000000;
+}
+
+.cd-scrolling-bg.cd-scrolling-bg--color-10 {
+  background-color:#949e7b;
+  color: #FFFFFF;
+}
+
+.cd-scrolling-bg.cd-scrolling-bg--color-about {
+  background-color: #d7cfb2;
+  color: #000000;
+}
+
+.cd-scrolling-bg.cd-scrolling-bg--color-tupian {
+  background-color: #9e949a;
+  color: #000000;
+}
+
+.cd-scrolling-bg.cd-scrolling-bg--color-gongqijun {
+  background-color:#8ee0ff;
+  color: #286177;
 }
 
 .cd-scrolling-bg__content {

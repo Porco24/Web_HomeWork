@@ -267,6 +267,15 @@ html, body {
   background-image: url(../image/tiankongzhicheng.jpg);
 }
 
+.nav-elem.nav-9 {
+    background-image: url(../image/vpgvV8pVPNGWUUdE2xFUFf4VeMJ.jpg);
+}
+
+.nav-elem.nav-10 {
+    background-image: url(../image/bdf8a36fd45a417b5afddda0ef81d9f085002b34_hq.jpg);
+}
+
+
 /* REAL SIDEBAR STYLES END */
 /* SECTIONS STYLES */
 .sections {
@@ -327,6 +336,22 @@ html, body {
 }
 .section.section-8 .bg-part {
   background-image: url("../image/tiankongzhicheng.jpg");
+}
+
+.section.section-9 .left-part {
+    background-image: url("../image/vpgvV8pVPNGWUUdE2xFUFf4VeMJ.jpg");
+}
+
+.section.section-9 .bg-part {
+    background-image: url("../image/vpgvV8pVPNGWUUdE2xFUFf4VeMJ.jpg");
+}
+
+.section.section-10 .left-part {
+    background-image: url("../image/bdf8a36fd45a417b5afddda0ef81d9f085002b34_hq.jpg");
+}
+
+.section.section-10 .bg-part {
+    background-image: url("../image/bdf8a36fd45a417b5afddda0ef81d9f085002b34_hq.jpg");
 }
 
 .left-part,
@@ -428,25 +453,33 @@ html, body {
   left: 0%;
 }
 .bg-part:nth-child(2) {
-  left: 12.5%;
+  left: 10%;
 }
 .bg-part:nth-child(3) {
-  left: 25%;
+  left: 20%;
 }
 .bg-part:nth-child(4) {
-  left: 37.5%;
+  left: 30%;
 }
 .bg-part:nth-child(5) {
-  left: 50%;
+  left: 40%;
 }
 .bg-part:nth-child(6) {
-  left: 62.5%;
+  left: 50%;
 }
 .bg-part:nth-child(7) {
-  left: 75%;
+  left: 60%;
 }
 .bg-part:nth-child(8) {
-  left: 87.5%;
+     left: 70%;
+ }
+
+.bg-part:nth-child(9) {
+    left: 80%;
+}
+
+.bg-part:nth-child(10) {
+    left: 90%;
 }
 
 .scroll-down {
