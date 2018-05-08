@@ -445,7 +445,7 @@ html, body {
   -webkit-transition-delay: 1s;
           transition-delay: 1s;
 }
-.bg-part:nth-child(8) {
+.bg-part:nth-child(5), .bg-part:nth-child(10) {
   -webkit-transition-delay: 1.2s;
           transition-delay: 1.2s;
 }

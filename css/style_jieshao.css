@@ -67,7 +67,7 @@ Resource style
   margin-right: 5%;
   width: 44px;
   height: 100%;
-  background: url("../image/cd-icon-menu.svg") no-repeat center center;
+  background: url("../image/logo.png") no-repeat center center;
   background-size: 44px 44px;
   cursor: pointer;
 }
@@ -138,7 +138,7 @@ Resource style
     font-size: 1.4rem;
   }
   .cd-main-nav__list a:hover {
-    color: #99a478;
+    color: #a40000;
   }
 }
 
