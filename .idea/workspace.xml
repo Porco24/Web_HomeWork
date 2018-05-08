@@ -4,26 +4,7 @@
     <list default="true" id="b40595a8-d022-4c61-82e2-8a0dd4932a2e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ceerqingting.html" beforeDir="false" afterPath="$PROJECT_DIR$/ceerqingting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/demo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/normalize.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style_jieshao.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style_jieshao.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daohang.html" beforeDir="false" afterPath="$PROJECT_DIR$/daohang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fengzhigu.html" beforeDir="false" afterPath="$PROJECT_DIR$/fengzhigu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gongqijun.html" beforeDir="false" afterPath="$PROJECT_DIR$/gongqijun.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/haerdeyidongchengbao.html" beforeDir="false" afterPath="$PROJECT_DIR$/haerdeyidongchengbao.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hongzhu.html" beforeDir="false" afterPath="$PROJECT_DIR$/hongzhu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/stopExecutionOnTimeout.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/stopExecutionOnTimeout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/monvzhaijisong.html" beforeDir="false" afterPath="$PROJECT_DIR$/monvzhaijisong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qianyuqianxun.html" beforeDir="false" afterPath="$PROJECT_DIR$/qianyuqianxun.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qifengle.html" beforeDir="false" afterPath="$PROJECT_DIR$/qifengle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiankongzhicheng.html" beforeDir="false" afterPath="$PROJECT_DIR$/tiankongzhicheng.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tupian.html" beforeDir="false" afterPath="$PROJECT_DIR$/tupian.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/xuanyashangdejinyuji.html" beforeDir="false" afterPath="$PROJECT_DIR$/xuanyashangdejinyuji.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/youlinggongzhu.html" beforeDir="false" afterPath="$PROJECT_DIR$/youlinggongzhu.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,8 +30,8 @@
       <file leaf-file-name="style_jieshao.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style_jieshao.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="610">
-              <caret line="140" column="15" selection-start-line="140" selection-start-column="15" selection-end-line="140" selection-end-column="15" />
+            <state relative-caret-position="173">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
             </state>
           </provider>
         </entry>
@@ -73,11 +54,42 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="tupian.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tupian.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="99" selection-start-line="17" selection-start-column="99" selection-end-line="17" selection-end-column="99" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#5;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#8;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="613">
+              <caret line="53" column="16" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="53" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="normalize.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/normalize.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
               <caret line="7" column="23" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -148,7 +160,6 @@
         <option value="$PROJECT_DIR$/gongqijun.html" />
         <option value="$PROJECT_DIR$/fengzhigu.html" />
         <option value="$PROJECT_DIR$/ceerqingting.html" />
-        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/haerdeyidongchengbao.html" />
         <option value="$PROJECT_DIR$/hongzhu.html" />
         <option value="$PROJECT_DIR$/monvzhaijisong.html" />
@@ -159,6 +170,7 @@
         <option value="$PROJECT_DIR$/xuanyashangdejinyuji.html" />
         <option value="$PROJECT_DIR$/youlinggongzhu.html" />
         <option value="$PROJECT_DIR$/css/normalize.css" />
+        <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/css/style_jieshao.css" />
       </list>
     </option>
@@ -235,16 +247,15 @@
       <workItem from="1525593593356" duration="9241000" />
       <workItem from="1525665697058" duration="18633000" />
       <workItem from="1525747901637" duration="7868000" />
-      <workItem from="1525772806972" duration="1871000" />
+      <workItem from="1525772806972" duration="6674000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31659000" />
+    <option name="totallyTimeSpent" value="36462000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -291,13 +302,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/bideo.js-master/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="41" column="29" lean-forward="true" selection-end-line="201" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/bideo.js-master/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -465,13 +469,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="16" column="99" selection-start-line="16" selection-start-column="99" selection-end-line="16" selection-end-column="99" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gongqijun.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -528,17 +525,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tupian.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="17" column="99" selection-start-line="17" selection-start-column="99" selection-end-line="17" selection-end-column="99" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#5;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#8;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xuanyashangdejinyuji.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -567,13 +553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/default.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
@@ -595,10 +574,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tupian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="99" selection-start-line="17" selection-start-column="99" selection-end-line="17" selection-end-column="99" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#5;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#8;n#div#0;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="613">
+          <caret line="53" column="16" lean-forward="true" selection-start-line="37" selection-start-column="12" selection-end-line="53" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="39" column="26" lean-forward="true" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/style_jieshao.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="610">
-          <caret line="140" column="15" selection-start-line="140" selection-start-column="15" selection-end-line="140" selection-end-column="15" />
+        <state relative-caret-position="173">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
         </state>
       </provider>
     </entry>
